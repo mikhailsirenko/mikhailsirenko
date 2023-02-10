@@ -7,7 +7,9 @@ I'm an urban data scientist/modeller, researcher and policy analyst.
 - 🌱 I aim to understand how cities recover, adapt, or transform in the face of uncertain future events like pandemics, heatwaves, or segregation.
 - 📝 Check out our recent [publications](https://scholar.google.com/citations?user=ZzHyCt0AAAAJ&hl=en) to learn more about the findings from these repos.
 
+<!-- 
 *Keywords*: urban science, machine learning, modelling & simulation, resilience, uncertainty.
+-->
 
 <!--
 **mikhailsirenko/mikhailsirenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
