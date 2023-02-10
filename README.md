@@ -2,10 +2,12 @@
 
 I'm an urban data scientist/modeller, researcher and policy analyst.
 
-- 👨‍🔬 I'm currently a Postdoctoral Researcher on the Horizon 2020 project [HERoS](https://www.heros-project.eu/) at the Delft University of Technology. 
+- 👨‍🔬 I'm currently a Postdoctoral Researcher on the Horizon 2020 project [HERoS](https://www.heros-project.eu/) at the Delft University of Technology where we build digital twins of cities to better prepare for uncertain future.
 - 📈 I have a strong background in data science which I recently enhanced with simulation & modelling for [policy analysis](https://www.rand.org/pubs/notes/N3093.html).
 - 🌱 I aim to understand how cities recover, adapt, or transform in the face of uncertain future events like pandemics, heatwaves, or segregation.
 - 📝 Check out our recent [publications](https://scholar.google.com/citations?user=ZzHyCt0AAAAJ&hl=en) to learn more about the findings from these repos.
+
+*Keywords*: urban science, machine learning, modelling & simulation, resilience, uncertainty.
 
 <!--
 **mikhailsirenko/mikhailsirenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
