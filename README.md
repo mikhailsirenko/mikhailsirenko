@@ -4,7 +4,7 @@ I'm an urban data scientist/modeller, researcher and policy analyst.
 
 - 🌋 I'm a Disaster Resilience Analyst at the [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en) at the World Bank.
 - 👨‍🔬 Previously, I was a Postdoctoral Researcher on the Horizon 2020 project [HERoS](https://www.heros-project.eu/) at the Delft University of Technology, where we build digital twins of cities to better prepare for an uncertain future.
-- 📈 I have a background in applied mathematics & statistics, which I enhanced with simulation & modelling for [policy analysis](https://www.rand.org/pubs/notes/N3093.html).
+- 📈 I have a background in applied mathematics & statistics, enhanced with simulation & modelling for [policy analysis](https://www.rand.org/pubs/notes/N3093.html).
 - 🌱 I aim to understand how cities recover, adapt, or transform in the face of uncertain future shocks like pandemics, heatwaves or stresses like segregation.
 - 📝 Check out our recent [publications](https://scholar.google.com/citations?user=ZzHyCt0AAAAJ&hl=en) to learn more about the findings generated from these repos.
 
